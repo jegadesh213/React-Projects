@@ -57,3 +57,37 @@ button:hover{
 button:active{
   background-color: rgb(43, 42, 42);
 }
+
+.welcome-msg{
+  background-color: rgb(29, 29, 29);
+  color: rgb(118, 235, 118);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 10px;
+  font-size: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 50px;
+  position: absolute;
+  top: 85%;
+  left: 58%;
+  border-radius: 20px;
+}
+
+.prompt-msg{
+  background-color: rgb(29, 29, 29);
+  color: rgb(240, 99, 63);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 10px;
+  font-size: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 50px;
+  position: absolute;
+  top: 85%;
+  left: 76%;
+  border-radius: 20px;
+}
