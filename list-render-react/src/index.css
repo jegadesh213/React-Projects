@@ -1,0 +1,21 @@
+.category{
+    text-align: center;
+    margin: 0;
+    background-color: azure;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.items{
+    list-style: none;
+    text-align: center;
+    font-size: 1.5rem;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.items li:hover{
+    color: grey;
+    cursor: pointer;
+}

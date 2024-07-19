@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-    <Logs></Logs>
+    <Logs onclick></Logs>
     <Prompt isLoggedIn={true} userName={name}></Prompt>
     </>
   )
