@@ -25,10 +25,10 @@ body{
 }
 
 .color-display{
-  border: 2px solid rgb(82, 78, 78);
   margin: 10px;
   padding: 30px;
   border-radius: 20px;
+  border: none;
 }
 
 label{
